@@ -42,4 +42,23 @@ The dataset includes the following features:
 6. Test predictions on new input data
 
 ## 🧪 Example Result
+Predicted Gender: Male Model Accuracy: 91.23%
+## 🚀 How to Run
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/rohanjha845455/gender-classification.git
+cd gender-classification
+🔁 Future Enhancements
+Use deep learning models (e.g., Neural Networks with TensorFlow/Keras)
+
+Expand dataset with additional features like age, facial dimensions, etc.
+
+Build a web interface using Flask or Streamlit
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to fork the repo and submit a pull request.
+📬 Contact
+Developed by Rohan Kumar Jha
+📧 Email: [jhar74145@gmail.com]
