@@ -43,6 +43,8 @@ The dataset includes the following features:
 
 ## 🧪 Example Result
 Predicted Gender: Male Model Accuracy: 91.23%
+![image](https://github.com/user-attachments/assets/076cb6cc-048d-497e-a3ba-0cf19e7434e2)
+
 ## 🚀 How to Run
 
 1. Clone the repository:
